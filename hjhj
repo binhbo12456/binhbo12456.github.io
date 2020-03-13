@@ -1,0 +1,588 @@
+{
+    "template": "vcmygf",
+    "language": "vi",
+    "owner": {
+        "id": "3402068139833700",
+        "name": "Duong",
+        "photo": "https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=3402068139833700&height=256&width=256&ext=1586694740&hash=AeTSAddLkry1qesK",
+        "gender": "male"
+    },
+    "date": "2020-03-13T09:55:32.984Z",
+    "title": "Ai hiểu Duong nhất? 25 câu hỏi",
+    "createTitle": "Ai hiểu bạn nhất? 25 câu hỏi",
+    "required": 25,
+    "randomize": true,
+    "imageHeight": 1350,
+    "done": false,
+    "exists": true,
+    "questions": [
+        {
+            "id": "dujuzk",
+            "question": {
+                "text": "Duong có chơi game trên điện thoại của mình không?"
+            },
+            "answers": [
+                {
+                    "id": "pkcnqw",
+                    "text": "Có, thường xuyên",
+                    "right": true
+                },
+                {
+                    "id": "rtp4f8",
+                    "text": "Thỉnh thoảng",
+                    "right": false
+                },
+                {
+                    "id": "qk403u",
+                    "text": "Không bao giờ",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "anckr3",
+            "question": {
+                "text": "Duong có nói nhiều không?"
+            },
+            "answers": [
+                {
+                    "id": "ack9j9",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "n5vb6f",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "zpes6h",
+            "question": {
+                "text": "Món nước yêu thích của Duong là gì?"
+            },
+            "answers": [
+                {
+                    "id": "z034b5",
+                    "text": "Nước lọc",
+                    "right": false
+                },
+                {
+                    "id": "mhyn6c",
+                    "text": "Trà",
+                    "right": false
+                },
+                {
+                    "id": "vks8gm",
+                    "text": "Cà phê",
+                    "right": false
+                },
+                {
+                    "id": "v9n9ss",
+                    "text": "Nước ngọt có ga",
+                    "right": true
+                },
+                {
+                    "id": "d1jrh9",
+                    "text": "Bia",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "iif2ub",
+            "question": {
+                "text": "Thể loại phim yêu thích của Duong là gì?"
+            },
+            "answers": [
+                {
+                    "id": "pcn8is",
+                    "text": "Hài",
+                    "right": true
+                },
+                {
+                    "id": "aidn6j",
+                    "text": "Lãng mạn",
+                    "right": false
+                },
+                {
+                    "id": "vxi51u",
+                    "text": "Hành động",
+                    "right": false
+                },
+                {
+                    "id": "yneqk0",
+                    "text": "Kinh dị",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "puqmj5",
+            "question": {
+                "text": "Duong làm gì trong thời gian rảnh?"
+            },
+            "answers": [
+                {
+                    "id": "b993cj",
+                    "text": "Chơi thể thao",
+                    "right": true
+                },
+                {
+                    "id": "se65xu",
+                    "text": "Xem TV",
+                    "right": false
+                },
+                {
+                    "id": "mw3h1l",
+                    "text": "Đi mua sắm",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "xjmfej",
+            "question": {
+                "text": "Duong có xăm hình nào không?"
+            },
+            "answers": [
+                {
+                    "id": "rn02z9",
+                    "text": "Có",
+                    "right": false
+                },
+                {
+                    "id": "hi90d9",
+                    "text": "Không",
+                    "right": true
+                }
+            ]
+        },
+        {
+            "id": "xzw34b",
+            "question": {
+                "text": "Đối với Duong, điều quan trọng nhất là:"
+            },
+            "answers": [
+                {
+                    "id": "nwzgmp",
+                    "text": "Gia đình",
+                    "right": true
+                },
+                {
+                    "id": "i3rrf3",
+                    "text": "Tiền",
+                    "right": false
+                },
+                {
+                    "id": "jvh8wx",
+                    "text": "Tình yêu",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "dy87s3",
+            "question": {
+                "text": "Nỗi sợ lớn nhất của Duong là gì?"
+            },
+            "answers": [
+                {
+                    "id": "vk98nx",
+                    "text": "Đám đông",
+                    "right": false
+                },
+                {
+                    "id": "eakxhl",
+                    "text": "Côn trùng",
+                    "right": false
+                },
+                {
+                    "id": "yr3sda",
+                    "text": "Bóng tối",
+                    "right": true
+                }
+            ]
+        },
+        {
+            "id": "vhins8",
+            "question": {
+                "text": "Duong có phải một người lãng mạn không?"
+            },
+            "answers": [
+                {
+                    "id": "u7h7tq",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "x0rkc2",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "c8swab",
+            "question": {
+                "text": "Duong có đưa ra quyết định dễ dàng không?"
+            },
+            "answers": [
+                {
+                    "id": "axy7qu",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "q75r6y",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "trfxwu",
+            "question": {
+                "text": "Duong có dành thời gian và tiền bạc của mình để giúp đỡ người kém may mắn không?"
+            },
+            "answers": [
+                {
+                    "id": "ufuhac",
+                    "text": "Có",
+                    "right": false
+                },
+                {
+                    "id": "i44a7f",
+                    "text": "Không",
+                    "right": true
+                }
+            ]
+        },
+        {
+            "id": "q7wsec",
+            "question": {
+                "text": "Duong có thường xuyên làm mất đồ của mình không?"
+            },
+            "answers": [
+                {
+                    "id": "diutny",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "ann2z8",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "zjcinb",
+            "question": {
+                "text": "Duong có lo lắng về những gì người khác nghĩ về mình không?"
+            },
+            "answers": [
+                {
+                    "id": "qdmvvn",
+                    "text": "Có",
+                    "right": false
+                },
+                {
+                    "id": "np6rxp",
+                    "text": "Không",
+                    "right": true
+                }
+            ]
+        },
+        {
+            "id": "jr4z3y",
+            "question": {
+                "text": "Duong có bao giờ làm tan nát trái tim người khác không?"
+            },
+            "answers": [
+                {
+                    "id": "a0c007",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "wvfbk8",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "hpmmzi",
+            "question": {
+                "text": "Duong có cho bạn bè lời khuyên tốt không?"
+            },
+            "answers": [
+                {
+                    "id": "pwraj5",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "ey9014",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "mpetui",
+            "question": {
+                "text": "Duong sẽ chọn cái nào giữa thói quen và việc mạo hiểm?"
+            },
+            "answers": [
+                {
+                    "id": "zga7yy",
+                    "text": "Thói quen",
+                    "right": true
+                },
+                {
+                    "id": "ma9u4n",
+                    "text": "Mạo hiểm",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "v6u9mg",
+            "question": {
+                "text": "Lúc còn nhỏ Duong có thích trường học không?"
+            },
+            "answers": [
+                {
+                    "id": "xz4za3",
+                    "text": "Có",
+                    "right": false
+                },
+                {
+                    "id": "ks6jnv",
+                    "text": "Không",
+                    "right": true
+                }
+            ]
+        },
+        {
+            "id": "sf6a2l",
+            "question": {
+                "text": "Duong có ghen tuông không?"
+            },
+            "answers": [
+                {
+                    "id": "gbve2b",
+                    "text": "Có",
+                    "right": true
+                },
+                {
+                    "id": "aat0uw",
+                    "text": "Không",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "ckedt8",
+            "question": {
+                "text": "Duong có tàn nhang trên mặt không?"
+            },
+            "answers": [
+                {
+                    "id": "ecn38u",
+                    "text": "Có",
+                    "right": false
+                },
+                {
+                    "id": "ep4myc",
+                    "text": "Không",
+                    "right": true
+                }
+            ]
+        },
+        {
+            "id": "s828wc",
+            "question": {
+                "text": "Duong sẽ thích sống ở đâu?"
+            },
+            "answers": [
+                {
+                    "id": "bs6i1k",
+                    "text": "Trong một thành phố lớn",
+                    "right": true
+                },
+                {
+                    "id": "iinmqe",
+                    "text": "Trong một thị trấn nhỏ",
+                    "right": false
+                },
+                {
+                    "id": "cu0b09",
+                    "text": "Tránh xa mọi thứ",
+                    "right": false
+                },
+                {
+                    "id": "qlgk89",
+                    "text": "Gần gia đình mình",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "l763q4",
+            "question": {
+                "text": "Duong sẽ cảm thấy tốt hơn khi ở những nơi yên tĩnh hay ồn ào?"
+            },
+            "answers": [
+                {
+                    "id": "x0ksx1",
+                    "text": "Nơi yên tĩnh",
+                    "right": true
+                },
+                {
+                    "id": "i9c6s0",
+                    "text": "Nơi ồn ào",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "ng75rd",
+            "question": {
+                "text": "Duong thích một người bạn đời:"
+            },
+            "answers": [
+                {
+                    "id": "by00y9",
+                    "text": "Cuốn hút",
+                    "right": false
+                },
+                {
+                    "id": "pb5q9h",
+                    "text": "Giàu có",
+                    "right": false
+                },
+                {
+                    "id": "mx4zcy",
+                    "text": "Thông minh",
+                    "right": true
+                },
+                {
+                    "id": "get103",
+                    "text": "Đa cảm",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "higj91",
+            "question": {
+                "text": "Duong đang sống với ai tại thời điểm này?"
+            },
+            "answers": [
+                {
+                    "id": "brt1na",
+                    "text": "Gia đình",
+                    "right": true
+                },
+                {
+                    "id": "tjrqwp",
+                    "text": "Bạn đời của mình",
+                    "right": false
+                },
+                {
+                    "id": "rlzbzj",
+                    "text": "Bạn bè",
+                    "right": false
+                },
+                {
+                    "id": "at5uu3",
+                    "text": "Một mình",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "qy6id3",
+            "question": {
+                "text": "Nếu bị lạc trên một hòn đảo hoang, Duong sẽ chọn vật đi cùng là:"
+            },
+            "answers": [
+                {
+                    "id": "ueae6g",
+                    "text": "Một cây đàn guitar",
+                    "right": false
+                },
+                {
+                    "id": "phluye",
+                    "text": "Một gói thuốc lá",
+                    "right": false
+                },
+                {
+                    "id": "zmcahy",
+                    "text": "Một con dao",
+                    "right": true
+                },
+                {
+                    "id": "y9lp1e",
+                    "text": "Một chai rượu vang",
+                    "right": false
+                }
+            ]
+        },
+        {
+            "id": "h0cve8",
+            "question": {
+                "text": "Duong có thận trọng với những thứ mình ăn không?"
+            },
+            "answers": [
+                {
+                    "id": "nkv317",
+                    "text": "Có",
+                    "right": false
+                },
+                {
+                    "id": "n37q1h",
+                    "text": "Không",
+                    "right": true
+                }
+            ]
+        }
+    ],
+    "friends": [
+        {
+            "id": "2848339215258066",
+            "name": "Nhung",
+            "photo": "https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2848339215258066&height=256&width=256&ext=1586693852&hash=AeTo2yM9uSVt_5Rj",
+            "score": 25
+        },
+        {
+            "id": "2510532835689670",
+            "name": "Linh",
+            "photo": "https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2510532835689670&height=256&width=256&ext=1586694602&hash=AeTRFsNLtW05s73V",
+            "score": 23
+        },
+        {
+            "id": "2525129040874836",
+            "name": "Trang",
+            "photo": "https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2525129040874836&height=256&width=256&ext=1586685913&hash=AeTA6iO3y53PzTyW",
+            "score": 15
+        },
+        {
+            "id": "3565121443559317",
+            "name": "Thịnh",
+            "photo": "https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=3565121443559317&height=256&width=256&ext=1586693817&hash=AeSuvt2cCqBZ6WD8",
+            "score": 15
+        },
+        {
+            "id": "2529772817071026",
+            "name": "Ngân",
+            "photo": "https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2529772817071026&height=256&width=256&ext=1586687937&hash=AeT0umcCamqH6nA1",
+            "score": 13
+        }
+    ],
+    "integrate": []
+}
