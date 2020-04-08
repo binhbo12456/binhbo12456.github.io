@@ -3,3 +3,5 @@ transvicn some-text ( việt nam -> trung quốc)
 trancnvi some-text (trung quốc -> việt nam)
 
 transvien some-text (việt nam- tiếng anh)
+
+transenvi some-text (anh -> việt)
