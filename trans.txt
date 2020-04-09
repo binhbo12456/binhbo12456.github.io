@@ -4,7 +4,7 @@ Trans CODE some-text
 
 CODE downbelwow
 
-
+country     CODE
 Afrikaans		af
 Irish		ga
 Albanian		sq
