@@ -1,4 +1,0 @@
-binh1 9 12
-binh2 8 11
-binh3 7 10
-binh4 6 9
